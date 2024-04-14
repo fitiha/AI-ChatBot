@@ -1,1 +1,1 @@
-***AI ChatBot for the Bloggery Website***
+**AI ChatBot for the Bloggery Website**
